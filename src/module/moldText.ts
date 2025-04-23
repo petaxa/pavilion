@@ -3,5 +3,5 @@ import { PavData } from "../type";
 
 export const mold = (dataAry: PavData) => {
   const picked = extractNameAndUrl(dataAry);
-  return `${picked.name}: ${picked.url}`;
+  return `- [${picked.name}](${picked.url})`;
 };
