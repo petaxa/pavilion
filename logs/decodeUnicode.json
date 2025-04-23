@@ -1,0 +1,388 @@
+{
+  "type": "node--pavilion_information",
+  "id": "5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f",
+  "links": {
+    "self": {
+      "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f?resourceVersion=id%3A35632"
+    },
+    "working-copy": {
+      "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f?resourceVersion=rel%3Aworking-copy"
+    }
+  },
+  "attributes": {
+    "drupal_internal__nid": 2640,
+    "drupal_internal__vid": 35632,
+    "langcode": "ja",
+    "revision_timestamp": "2025-03-26T07:36:06+00:00",
+    "status": true,
+    "title": "ロボット＆モビリティステーション",
+    "created": "2025-02-07T01:32:47+00:00",
+    "changed": "2025-02-21T03:00:00+00:00",
+    "promote": true,
+    "sticky": false,
+    "default_langcode": true,
+    "revision_translation_affected": null,
+    "moderation_state": "published",
+    "path": {
+      "alias": null,
+      "pid": null,
+      "langcode": "ja"
+    },
+    "publish_on": null,
+    "unpublish_on": null,
+    "content_translation_source": "und",
+    "content_translation_outdated": false,
+    "published_at": "2025-02-21T02:12:37+00:00",
+    "field_info_time_required": 30,
+    "field_pavilion_apple_store_link": null,
+    "field_pavilion_app_available": false,
+    "field_pavilion_caution": {
+      "value": "<p>●会期中、プログラムの入替えにより、館内の実施内容が変わります（入替えの準備状況によって、9:00～12:00の見学・体験ができない場合があります）。</p><p>&nbsp;　また、事前予約が必要なプログラムが含まれます。</p><p>&nbsp;　詳しくは万博公式サイトをご確認ください。</p><p>●館内では様々なロボット・モビリティが稼働します。小さなお子様をお連れの方は目を離さないようにご注意ください。</p><p>●機器トラブルによって閉館、または体験時間の変更や一部展示の中止など、プログラムを変更することがあります。</p><p>&nbsp;</p><p>〈来館時のお願い〉</p><p>●館内での飲食はご遠慮ください。</p><p>●館内での動画撮影は可能ですが、同じ場所での長時間の撮影や割り込みなど、他の来館者の迷惑となる行為はご遠慮ください。</p><p>●著作権侵害につながる、営利目的の撮影、LIVE（生）配信やそれに準じた撮影については、ご遠慮ください。</p><p>&nbsp;撮影者と無関係な来館者等が映り込んでいる画像や動画の公開によるトラブルは、当館では一切の責任を負いませんので、ご注意ください。</p><p>●お客さまの不注意による事故・紛失・盗難について、当館では責任を負いかねます。</p><p>●飲酒により本人や周囲への安全が確保できないと判断される場合、入館をお断りすることがあります。</p><p>●他のお客様の迷惑になるような行為はおやめください。迷惑行為を発見した場合は、退館、または入場をお断りする場合があります。</p><p>●スタッフから指示がある場合はそれに従ってください。</p>",
+      "format": "only_link_and_list",
+      "processed": "<p>●会期中、プログラムの入替えにより、館内の実施内容が変わります（入替えの準備状況によって、9:00～12:00の見学・体験ができない場合があります）。</p>\n<p>&nbsp;　また、事前予約が必要なプログラムが含まれます。</p>\n<p>&nbsp;　詳しくは万博公式サイトをご確認ください。</p>\n<p>●館内では様々なロボット・モビリティが稼働します。小さなお子様をお連れの方は目を離さないようにご注意ください。</p>\n<p>●機器トラブルによって閉館、または体験時間の変更や一部展示の中止など、プログラムを変更することがあります。</p>\n<p>&nbsp;</p>\n<p>〈来館時のお願い〉</p>\n<p>●館内での飲食はご遠慮ください。</p>\n<p>●館内での動画撮影は可能ですが、同じ場所での長時間の撮影や割り込みなど、他の来館者の迷惑となる行為はご遠慮ください。</p>\n<p>●著作権侵害につながる、営利目的の撮影、LIVE（生）配信やそれに準じた撮影については、ご遠慮ください。</p>\n<p>&nbsp;撮影者と無関係な来館者等が映り込んでいる画像や動画の公開によるトラブルは、当館では一切の責任を負いませんので、ご注意ください。</p>\n<p>●お客さまの不注意による事故・紛失・盗難について、当館では責任を負いかねます。</p>\n<p>●飲酒により本人や周囲への安全が確保できないと判断される場合、入館をお断りすることがあります。</p>\n<p>●他のお客様の迷惑になるような行為はおやめください。迷惑行為を発見した場合は、退館、または入場をお断りする場合があります。</p>\n<p>●スタッフから指示がある場合はそれに従ってください。</p>\n"
+    },
+    "field_pavilion_citations": [],
+    "field_pavilion_concept": "人とロボットが共に創る（co-create）社会を目指して",
+    "field_pavilion_corp_org_name": "公益社団法人２０２５年日本国際博覧会協会",
+    "field_pavilion_google_play_link": null,
+    "field_pavilion_holiday_opening": {
+      "from": 32400,
+      "to": 75600
+    },
+    "field_pavilion_is_closed": false,
+    "field_pavilion_limitation": [],
+    "field_pavilion_name_ruby": "ろぼっとあんどもびりてぃすてーしょん",
+    "field_pavilion_opening_day": [
+      {
+        "day": 0,
+        "all_day": false,
+        "starthours": 900,
+        "endhours": 2100,
+        "comment": ""
+      },
+      {
+        "day": 1,
+        "all_day": false,
+        "starthours": 900,
+        "endhours": 2100,
+        "comment": ""
+      },
+      {
+        "day": 2,
+        "all_day": false,
+        "starthours": 900,
+        "endhours": 2100,
+        "comment": ""
+      },
+      {
+        "day": 3,
+        "all_day": false,
+        "starthours": 900,
+        "endhours": 2100,
+        "comment": ""
+      },
+      {
+        "day": 4,
+        "all_day": false,
+        "starthours": 900,
+        "endhours": 2100,
+        "comment": ""
+      },
+      {
+        "day": 5,
+        "all_day": false,
+        "starthours": 900,
+        "endhours": 2100,
+        "comment": ""
+      },
+      {
+        "day": 6,
+        "all_day": false,
+        "starthours": 900,
+        "endhours": 2100,
+        "comment": ""
+      }
+    ],
+    "field_pavilion_preview_link": {
+      "uri": "internal:/preview/node/pavilions/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f",
+      "title": "プレビューへのリンク",
+      "options": []
+    },
+    "field_pavilion_reserve": "0",
+    "field_pavilion_summary": "次世代のさまざまなロボットの実装・実証を行う取り組みである、ロボットエクスペリエンスに参加するロボットを間近に見ながら、デモンストレーションを体験することのできる施設です。",
+    "field_pavilion_theme": "人とロボットが共存する未来を体感",
+    "field_pavilion_theme_producer": null,
+    "field_pavilion_virtual_venue_url": null,
+    "field_pavilion_workflow_link": {
+      "uri": "https://workflow.expovisitors.expo2025.or.jp/items/3419",
+      "title": "申請リンク(承認状態：公開承認済)",
+      "options": []
+    },
+    "field_required_outside": [],
+    "field_required_outside_link": [],
+    "field_tenant_id": "P14-01"
+  },
+  "relationships": {
+    "node_type": {
+      "data": null,
+      "links": {
+        "self": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/relationships/node_type?resourceVersion=id%3A35632"
+        }
+      }
+    },
+    "revision_uid": {
+      "data": null,
+      "links": {
+        "self": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/relationships/revision_uid?resourceVersion=id%3A35632"
+        }
+      }
+    },
+    "uid": {
+      "data": null,
+      "links": {
+        "self": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/relationships/uid?resourceVersion=id%3A35632"
+        }
+      }
+    },
+    "field_pavilion_app_icon_image": {
+      "data": null,
+      "links": {
+        "related": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/field_pavilion_app_icon_image?resourceVersion=id%3A35632"
+        },
+        "self": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/relationships/field_pavilion_app_icon_image?resourceVersion=id%3A35632"
+        }
+      }
+    },
+    "field_pavilion_attribute": {
+      "data": [
+        {
+          "type": "taxonomy_term--pavilion_attribute",
+          "id": "c891b135-230a-4e06-9529-80a584850f52",
+          "meta": {
+            "drupal_internal__target_id": 180
+          }
+        },
+        {
+          "type": "taxonomy_term--pavilion_attribute",
+          "id": "0adc5d83-c955-44d3-afa9-7a27b8d46421",
+          "meta": {
+            "drupal_internal__target_id": 181
+          }
+        },
+        {
+          "type": "taxonomy_term--pavilion_attribute",
+          "id": "31f886f9-e83f-4694-bc5a-e48f29029766",
+          "meta": {
+            "drupal_internal__target_id": 182
+          }
+        },
+        {
+          "type": "taxonomy_term--pavilion_attribute",
+          "id": "ba479336-7d63-4133-80c1-685c5d995aed",
+          "meta": {
+            "drupal_internal__target_id": 183
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/field_pavilion_attribute?resourceVersion=id%3A35632"
+        },
+        "self": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/relationships/field_pavilion_attribute?resourceVersion=id%3A35632"
+        }
+      }
+    },
+    "field_pavilion_close": {
+      "data": [
+        {
+          "type": "node--pavilion_information",
+          "id": "63eba799-605d-4f37-8675-e0e91716d996",
+          "meta": {
+            "drupal_internal__target_id": 913
+          }
+        },
+        {
+          "type": "node--pavilion_information",
+          "id": "452b155d-6fd3-4ca1-804d-ba53576e6570",
+          "meta": {
+            "drupal_internal__target_id": 1258
+          }
+        },
+        {
+          "type": "node--pavilion_information",
+          "id": "b92936d5-346f-4394-8cdf-60e5631d1110",
+          "meta": {
+            "drupal_internal__target_id": 1250
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/field_pavilion_close?resourceVersion=id%3A35632"
+        },
+        "self": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/relationships/field_pavilion_close?resourceVersion=id%3A35632"
+        }
+      }
+    },
+    "field_pavilion_exhibition_area": {
+      "data": {
+        "type": "taxonomy_term--pavilion_exhibition_area",
+        "id": "f41fd2a1-916f-4911-b947-3383dc2911fe",
+        "meta": {
+          "drupal_internal__target_id": 74
+        }
+      },
+      "links": {
+        "related": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/field_pavilion_exhibition_area?resourceVersion=id%3A35632"
+        },
+        "self": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/relationships/field_pavilion_exhibition_area?resourceVersion=id%3A35632"
+        }
+      }
+    },
+    "field_pavilion_exhibition_region": {
+      "data": {
+        "type": "taxonomy_term--pavilion_exhibition_region",
+        "id": "644ad47f-cf8b-47cf-90fa-b4a633dbc174",
+        "meta": {
+          "drupal_internal__target_id": 167
+        }
+      },
+      "links": {
+        "related": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/field_pavilion_exhibition_region?resourceVersion=id%3A35632"
+        },
+        "self": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/relationships/field_pavilion_exhibition_region?resourceVersion=id%3A35632"
+        }
+      }
+    },
+    "field_pavilion_header_image": {
+      "data": {
+        "type": "file--file",
+        "id": "20b2e904-0cb8-49ad-8ab3-2ff3d6e582ef",
+        "meta": {
+          "alt": "ロボット＆モビリティステーション外観",
+          "title": "",
+          "width": 1014,
+          "height": 608,
+          "drupal_internal__target_id": 4221
+        }
+      },
+      "links": {
+        "related": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/field_pavilion_header_image?resourceVersion=id%3A35632"
+        },
+        "self": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/relationships/field_pavilion_header_image?resourceVersion=id%3A35632"
+        }
+      }
+    },
+    "field_pavilion_sort": {
+      "data": {
+        "type": "taxonomy_term--pavilion_sort",
+        "id": "c8743924-5bc7-4420-9ee1-f54be1a484df",
+        "meta": {
+          "drupal_internal__target_id": 266
+        }
+      },
+      "links": {
+        "related": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/field_pavilion_sort?resourceVersion=id%3A35632"
+        },
+        "self": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/relationships/field_pavilion_sort?resourceVersion=id%3A35632"
+        }
+      }
+    },
+    "field_pavilion_summary_image": {
+      "data": [
+        {
+          "type": "file--file",
+          "id": "b33a0211-315e-4cb7-8e1a-8f79d93d6bea",
+          "meta": {
+            "alt": "ロボット＆モビリティステーション内観01",
+            "title": "",
+            "width": 1919,
+            "height": 1080,
+            "drupal_internal__target_id": 7603
+          }
+        },
+        {
+          "type": "file--file",
+          "id": "e73b82fd-6cc1-43b9-9373-207df3e9e2cf",
+          "meta": {
+            "alt": "ロボット＆モビリティステーション内観02",
+            "title": "",
+            "width": 1919,
+            "height": 1080,
+            "drupal_internal__target_id": 7604
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/field_pavilion_summary_image?resourceVersion=id%3A35632"
+        },
+        "self": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/relationships/field_pavilion_summary_image?resourceVersion=id%3A35632"
+        }
+      }
+    },
+    "field_pavilion_universal_info": {
+      "data": [
+        {
+          "type": "taxonomy_term--pavilion_universal_service_info",
+          "id": "6a15098e-22f9-434a-b4e3-adc5ae9cd026",
+          "meta": {
+            "drupal_internal__target_id": 264
+          }
+        },
+        {
+          "type": "taxonomy_term--pavilion_universal_service_info",
+          "id": "947aa1e2-ef10-4374-9846-504188268191",
+          "meta": {
+            "drupal_internal__target_id": 153
+          }
+        },
+        {
+          "type": "taxonomy_term--pavilion_universal_service_info",
+          "id": "db67d6bf-5c60-41af-951b-2f1c9159907b",
+          "meta": {
+            "drupal_internal__target_id": 156
+          }
+        },
+        {
+          "type": "taxonomy_term--pavilion_universal_service_info",
+          "id": "07433f7f-5b34-44e5-bc1b-df239de63fc6",
+          "meta": {
+            "drupal_internal__target_id": 162
+          }
+        },
+        {
+          "type": "taxonomy_term--pavilion_universal_service_info",
+          "id": "627a49f3-e8aa-49a0-be2a-bf4b32e60452",
+          "meta": {
+            "drupal_internal__target_id": 163
+          }
+        }
+      ],
+      "links": {
+        "related": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/field_pavilion_universal_info?resourceVersion=id%3A35632"
+        },
+        "self": {
+          "href": "http://cms.expovisitors.expo2025.or.jp/jsonapi/node/pavilion_information/5f9b7c89-0cd4-4dc5-a8db-3f60ab88702f/relationships/field_pavilion_universal_info?resourceVersion=id%3A35632"
+        }
+      }
+    }
+  }
+}
